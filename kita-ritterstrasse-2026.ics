@@ -199,6 +199,16 @@ STATUS:CONFIRMED
 DESCRIPTION:Die Einrichtung ist an diesem Tag geschlossen.
 END:VEVENT
 BEGIN:VEVENT
+UID:20260624-elternabend-grenzen@kita-ritterstrasse.de
+DTSTAMP:20260623T000000Z
+DTSTART;TZID=Europe/Berlin:20260624T190000
+DTEND;TZID=Europe/Berlin:20260624T203000
+SUMMARY:Elternabend – „Grenzen"
+DESCRIPTION:Thema: Kinderschutz und kindliche Sexualität – „Grenzen"\nReferentinnen: Katja Diederich (Fachfrau für Kinderschutz und kindliche Sexualität) und Ann-Kristin Hartung.\nOrt: Bewegungskita Ritterstraße
+LOCATION:Bewegungskita Ritterstraße
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260626-sommerfest@kita-ritterstrasse.de
 DTSTAMP:20260617T100118Z
 SUMMARY:Sommerfest abgesagt – Unterwasser-Aktivitäten & Eis
