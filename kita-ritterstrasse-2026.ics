@@ -201,7 +201,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20260626-sommerfest@kita-ritterstrasse.de
 DTSTAMP:20260617T100118Z
-SUMMARY:Sommerfest
+SUMMARY:Sommerfest abgesagt – Unterwasser-Aktivitäten & Eis
+DESCRIPTION:Das Sommerfest wurde wegen Hitze abgesagt. Stattdessen: Schminken\, Basteln\, Eis zum Thema Unterwasser am Freitagvormittag.
 DTSTART;TZID=Europe/Berlin:20260626T150000
 DTEND;TZID=Europe/Berlin:20260626T180000
 STATUS:CONFIRMED
@@ -262,6 +263,14 @@ DTSTAMP:20260617T100118Z
 SUMMARY:Fotograftermin
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260909
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-sommerfest-ersatz@kita-ritterstrasse.de
+DTSTART;TZID=Europe/Berlin:20260911T150000
+DTEND;TZID=Europe/Berlin:20260911T180000
+SUMMARY:Sommerfest (Ersatztermin)
+DESCRIPTION:Nachholtermin des abgesagten Sommerfests vom 26.06.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
