@@ -212,7 +212,7 @@ BEGIN:VEVENT
 UID:20260626-sommerfest@kita-ritterstrasse.de
 DTSTAMP:20260617T100118Z
 SUMMARY:Sommerfest abgesagt – Unterwasser-Aktivitäten & Eis
-DESCRIPTION:Das Sommerfest wurde wegen Hitze abgesagt. Stattdessen: Schminken\, Basteln\, Eis zum Thema Unterwasser am Freitagvormittag.
+DESCRIPTION:Das Sommerfest wurde wegen Hitze abgesagt. Stattdessen: Schminken\, Basteln\, Eis zum Thema Unterwasser schom am Donnerstag.
 DTSTART;TZID=Europe/Berlin:20260626T150000
 DTEND;TZID=Europe/Berlin:20260626T180000
 STATUS:CONFIRMED
