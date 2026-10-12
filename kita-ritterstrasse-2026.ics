@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Bewegungskita Ritterstraße//Termine 2026-2027//DE
+PRODID:-//Bewegungskita Ritterstraße//Termine//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Kita Ritterstraße Termine 2026/2027
+X-WR-CALNAME:Kita Ritterstraße Termine
 X-WR-CALDESC:Jahreskalender der Bewegungskita Ritterstraße Hamburg
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
