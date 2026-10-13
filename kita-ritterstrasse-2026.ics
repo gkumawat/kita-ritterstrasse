@@ -319,11 +319,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20261028-laterne-basteln@kita-ritterstrasse.de
-DTSTAMP:20260617T100118Z
+DTSTAMP:20261013T120000Z
+SEQUENCE:1
 SUMMARY:Laterne basteln
-DTSTART;TZID=Europe/Berlin:20261028T150000
-DTEND;TZID=Europe/Berlin:20261028T170000
+DTSTART;TZID=Europe/Berlin:20261014T140000
+DTEND;TZID=Europe/Berlin:20261014T170000
+LOCATION:Bewegungskita Ritterstraße – Atelier
 STATUS:CONFIRMED
+DESCRIPTION:Laterne basteln im Atelier ab 14 Uhr. Material bitte selbst mitbringen: Stöcke und Lichter sowie ein ausgedienter Snack- oder Joghurtbecher (möglichst durchsichtig) und ggf. Muffinpapiere für die Augen. Federn\, Farben\, Wackelaugen\, Transparentpapier\, Leim u.ä. sind in der Kita vorhanden.
 END:VEVENT
 BEGIN:VEVENT
 UID:20261030-spielzeugtag@kita-ritterstrasse.de
